@@ -1,0 +1,143 @@
+[[booster]]
+arch = "aarch64"
+git-tree-sha1 = "79a8d76c328144b7b1dfc99a1d788fba951ab704"
+os = "macos"
+
+    [[booster.download]]
+    sha256 = "8acf28adf546166ba751163b90e9cc287886bb1eb575bdf20454aafa2c863de9"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.aarch64-apple-darwin.tar.gz"
+[[booster]]
+arch = "aarch64"
+git-tree-sha1 = "f10fafcfd5c3d05e75a276d16218ff8d8699e921"
+libc = "glibc"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "ce86eecea3b8747e10ab241243f8da2b6bf8c95dbe154cfa44dcd2a264a4e24d"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.aarch64-linux-gnu.tar.gz"
+[[booster]]
+arch = "aarch64"
+git-tree-sha1 = "104d1dcb25ea1bad6270abee97a64229c513be0a"
+libc = "musl"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "fa22c41e0fdbe5145b6a166b416f15431605a65cb18fe86dfe2f744a24482db8"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.aarch64-linux-musl.tar.gz"
+[[booster]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9fdaccdf628642ba097b041ba67104196a3da6a3"
+libc = "glibc"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "b58c2b1cf960970850edd5911563e216c895bc4287b602a02690cf8bc546a1b9"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.armv6l-linux-gnueabihf.tar.gz"
+[[booster]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "87ff58a02fd42382867d619d4bc9ac323005f6f4"
+libc = "musl"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "66522a7fb6e924f7217468e26d25d9a9da723e670f3225272bad590a0586e7b5"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.armv6l-linux-musleabihf.tar.gz"
+[[booster]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f2b4453622483854ee1f23dd64b805c7ec71a8f8"
+libc = "glibc"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "4772c39b41537137ed5c1d343234055e54ae7e2fd320ec73ab951df6521e8db2"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.armv7l-linux-gnueabihf.tar.gz"
+[[booster]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44a5b23560819e8bd92b9a997b230d7064cedeb5"
+libc = "musl"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "2dd6ee4e44672bf7cf080bbe16cdfa03e1acfc035d7da222a30cc3f325143776"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.armv7l-linux-musleabihf.tar.gz"
+[[booster]]
+arch = "i686"
+git-tree-sha1 = "d299f6388fb3f1de8af4b218707d3539d5c22600"
+libc = "glibc"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "8add629ac348709ce297013c1a13f0a0c3f96b3e53398cd9553c2ab81022e9d3"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.i686-linux-gnu.tar.gz"
+[[booster]]
+arch = "i686"
+git-tree-sha1 = "166c752d00e4c7c88ab5306d196de2d9edd361ca"
+libc = "musl"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "79dc626139eff59c8a6dfcad8ad4c431d8419eb6b80f76865478f6e0a81ff4e4"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.i686-linux-musl.tar.gz"
+[[booster]]
+arch = "i686"
+git-tree-sha1 = "51aff38ad3becba0d6050102caade92d37ce6aa3"
+os = "windows"
+
+    [[booster.download]]
+    sha256 = "7ede5fbb22b624c1d7dfd7ab00fcc2b7259109fe74b0a934ad038d10ad713ccc"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.i686-w64-mingw32.tar.gz"
+[[booster]]
+arch = "powerpc64le"
+git-tree-sha1 = "9dc25fefffeb87016a7976c81789a9af4fe4eb14"
+libc = "glibc"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "91250184253108328d57d77fa6f34aaf1fd5c0e4a651a1a85d5b01cc36673034"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.powerpc64le-linux-gnu.tar.gz"
+[[booster]]
+arch = "x86_64"
+git-tree-sha1 = "ebf037ad9a4d7850c5aba70814aa908aa76f76d1"
+os = "macos"
+
+    [[booster.download]]
+    sha256 = "2d8fbb70a42e1eb2a27a4c3ed63e4409253796835f32b6392cc0f05e21d04a0e"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.x86_64-apple-darwin.tar.gz"
+[[booster]]
+arch = "x86_64"
+git-tree-sha1 = "8e5e2efab1e1df3cad34190711771effcb562d98"
+libc = "glibc"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "1b4dc0ca69c567b0416a9ae3e81e41fb8cd97d4959a18f251af97dd33462a4d6"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.x86_64-linux-gnu.tar.gz"
+[[booster]]
+arch = "x86_64"
+git-tree-sha1 = "ba9b5eddf5ab13b7f30d301354cdc794671bd32b"
+libc = "musl"
+os = "linux"
+
+    [[booster.download]]
+    sha256 = "509ebd61599bb9c4255b0b0365fac0ddc634490b4e7a5403a0567f6eb060178d"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.x86_64-linux-musl.tar.gz"
+[[booster]]
+arch = "x86_64"
+git-tree-sha1 = "efed26dc903b06d00ed138bafe5efc6d88414a22"
+os = "freebsd"
+
+    [[booster.download]]
+    sha256 = "a380160e87912181466426d5e1788e7eeb7e7a18a95b9d5d7e852590523a09da"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.x86_64-unknown-freebsd.tar.gz"
+[[booster]]
+arch = "x86_64"
+git-tree-sha1 = "5b86dc36d68c0b635ff7ca5b81bf04253bd3a2c6"
+os = "windows"
+
+    [[booster.download]]
+    sha256 = "60a4b414fa82f081c36757e7325320b134fc41b8ba1a557b40834c39b891629f"
+    url = "https://github.com/JuliaBinaryWrappers/booster_jll.jl/releases/download/booster-v0.1.2+0/booster.v0.1.2.x86_64-w64-mingw32.tar.gz"
